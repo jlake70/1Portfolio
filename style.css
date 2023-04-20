@@ -1,0 +1,15 @@
+body {
+    background: #988754;
+    color: #cdecf9;
+    font-family: American Typewriter, Arial, sans-serif;
+    font-size: 24px;
+  }
+
+h1 {
+    font-size: 90px;
+    font-weight: bolder;
+    
+}
+  .rounded-circle{
+    margin: 20px;
+  }
